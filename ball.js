@@ -20,7 +20,7 @@ class Ball{
         translate(pos.x,pos.y);
         rotate(angle)
         strokeWeight(2)
-        fill("pink")
+        fill("green")
         circle(0,0,this.radius);
         pop();
     }
